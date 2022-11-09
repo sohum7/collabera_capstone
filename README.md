@@ -11,8 +11,8 @@
 Challenges faced:
 - How to utilize DoFn 
 - Understanding how the process function should work
-- Converting a large json file to csv used a lot memory
+- Converting a large json file to csv used a lot memory (only for certain files)
 -   Will need to find a way to optimize this issue (pub sub perhaps?)
 - 
 - How to transform the data within the pipeline
-- 
+- Conceptually understanding how pubsub works
